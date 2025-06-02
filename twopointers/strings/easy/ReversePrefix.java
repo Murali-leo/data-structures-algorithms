@@ -1,9 +1,6 @@
 /**
  * LeetCode Problem: ReversePrefix
  * Problem Link: https://leetcode.com/problems/reverse-prefix-of-word/
- *
- * Solution by: Murali Reddy
- * Date: 2025-06-01
  */
 
 package twopointers.strings.easy;

@@ -1,9 +1,6 @@
 /**
  * LeetCode Problem: ReverseWords
  * Problem Link: https://leetcode.com/problems/reverse-words-in-a-string/
- *
- * Solution by: Murali Reddy
- * Date: 2025-06-01
  */
 
 package twopointers.strings.medium;

@@ -1,9 +1,6 @@
 /**
  * LeetCode Problem: ReverseVowels
  * Problem Link: https://leetcode.com/problems/reverse-vowels-of-a-string/
- *
- * Solution by: Murali Reddy
- * Date: 2025-06-01
  */
 
 package twopointers.strings.easy;
