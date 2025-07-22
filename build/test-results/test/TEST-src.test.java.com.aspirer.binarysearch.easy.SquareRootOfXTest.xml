@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.test.java.com.aspirer.binarysearch.easy.SquareRootOfXTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-07-22T17:02:07.969Z" hostname="DESKTOP-1IMDVHS" time="0.011">
+  <properties/>
+  <testcase name="testMySqrt()" classname="src.test.java.com.aspirer.binarysearch.easy.SquareRootOfXTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

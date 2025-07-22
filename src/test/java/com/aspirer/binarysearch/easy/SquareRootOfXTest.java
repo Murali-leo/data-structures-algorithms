@@ -1,8 +1,6 @@
-package src.test.java.com.aspirer.binarysearch.easy;
+package com.aspirer.binarysearch.easy;
 
 import org.junit.jupiter.api.Test;
-
-import com.aspirer.binarysearch.easy.SquareRootOfX;
 
 public class SquareRootOfXTest {
     SquareRootOfX squareRootOfX = new SquareRootOfX();
