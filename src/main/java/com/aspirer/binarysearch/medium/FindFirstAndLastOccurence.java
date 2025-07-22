@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
  */
 
-package src.main.java.com.aspirer.binarysearch.medium;
+package com.aspirer.binarysearch.medium;
 
 public class FindFirstAndLastOccurence {
     public int[] searchRange(int[] nums, int target) {

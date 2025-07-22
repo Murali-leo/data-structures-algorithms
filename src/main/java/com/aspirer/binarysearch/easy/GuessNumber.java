@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/guess-number-higher-or-lower/
  */
 
-package src.main.java.com.aspirer.binarysearch.easy;
+package com.aspirer.binarysearch.easy;
 
 public class GuessNumber {
     static int pick = 0;

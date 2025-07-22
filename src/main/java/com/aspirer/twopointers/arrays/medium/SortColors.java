@@ -2,7 +2,7 @@
  * LeetCode Problem: SortColors
  * Problem Link: https://leetcode.com/problems/sort-colors/
  */
-package src.main.java.com.aspirer.twopointers.arrays.medium;
+package com.aspirer.twopointers.arrays.medium;
 
 public class SortColors {
     public void sortColors(int[] nums){

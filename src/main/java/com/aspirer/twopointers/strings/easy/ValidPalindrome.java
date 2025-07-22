@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/valid-palindrome/
  */
 
-package src.main.java.com.aspirer.twopointers.strings.easy;
+package com.aspirer.twopointers.strings.easy;
 
 public class ValidPalindrome {
     public boolean isPalindrome(String s) {

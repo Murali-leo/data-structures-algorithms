@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
  */
 
-package src.main.java.com.aspirer.stack.parantheses.medium;
+package com.aspirer.stack.parantheses.medium;
 
 import java.util.Stack;
 

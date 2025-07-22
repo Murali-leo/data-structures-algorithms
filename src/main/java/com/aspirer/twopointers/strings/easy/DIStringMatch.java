@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/di-string-match/
 */
 
-package src.main.java.com.aspirer.twopointers.strings.easy;
+package com.aspirer.twopointers.strings.easy;
 
 public class DIStringMatch {
     public int[] diStringMatch(String s) {

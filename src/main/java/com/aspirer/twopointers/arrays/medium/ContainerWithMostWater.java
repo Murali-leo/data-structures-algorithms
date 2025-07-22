@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/container-with-most-water/
 */
 
-package src.main.java.com.aspirer.twopointers.arrays.medium;
+package com.aspirer.twopointers.arrays.medium;
 
 public class ContainerWithMostWater {
     public int maxArea(int[] height) {

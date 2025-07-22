@@ -2,7 +2,7 @@
  * LeetCode Problem: FindPeakElement
  * Problem Link: https://leetcode.com/problems/find-peak-element/
 */
-package src.main.java.com.aspirer.binarysearch.medium;
+package com.aspirer.binarysearch.medium;
 
 public class FindPeakElement {
     public int findPeakElement(int[] nums) {

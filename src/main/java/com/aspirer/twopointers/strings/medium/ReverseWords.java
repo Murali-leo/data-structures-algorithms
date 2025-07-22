@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/reverse-words-in-a-string/
  */
 
-package src.main.java.com.aspirer.twopointers.strings.medium;
+package com.aspirer.twopointers.strings.medium;
 
 public class ReverseWords {
     public String reverseWords(String s) {

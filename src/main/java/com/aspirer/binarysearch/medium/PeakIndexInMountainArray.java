@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/peak-index-in-a-mountain-array/
  */
 
-package src.main.java.com.aspirer.binarysearch.medium;
+package com.aspirer.binarysearch.medium;
 
 public class PeakIndexInMountainArray {
     public int peakIndexInMountainArray(int[] arr) {

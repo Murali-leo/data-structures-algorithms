@@ -2,7 +2,7 @@
  * LeetCode Problem: SquareRootOfX
  * Problem Link: https://leetcode.com/problems/sqrtx/
  */
-package src.main.java.com.aspirer.binarysearch.easy;
+package com.aspirer.binarysearch.easy;
 
 public class SquareRootOfX {
     public int mySqrt(int x) {

@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/next-permutation/
 */
 
-package src.main.java.com.aspirer.twopointers.arrays.medium;
+package com.aspirer.twopointers.arrays.medium;
 
 public class NextPermutation {
     public void nextPermutation(int[] nums) {

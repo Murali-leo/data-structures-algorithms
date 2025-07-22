@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 */
 
-package src.main.java.com.aspirer.stack.parantheses.medium;
+package com.aspirer.stack.parantheses.medium;
 
 public class MinimumRemoveParanthesesValid {
     public String minRemoveToMakeValid(String s) {

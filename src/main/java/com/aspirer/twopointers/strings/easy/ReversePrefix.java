@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/reverse-prefix-of-word/
  */
 
-package src.main.java.com.aspirer.twopointers.strings.easy;
+package com.aspirer.twopointers.strings.easy;
 
 public class ReversePrefix {
     public String reversePrefix(String word, char ch) {

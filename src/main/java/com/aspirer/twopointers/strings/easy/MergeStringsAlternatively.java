@@ -2,7 +2,7 @@
  * LeetCode Problem: MergeStringsAlternatively
  * Problem Link: https://leetcode.com/problems/merge-strings-alternately/
 */
-package src.main.java.com.aspirer.twopointers.strings.easy;
+package com.aspirer.twopointers.strings.easy;
 
 public class MergeStringsAlternatively {
     public String mergeAlternately(String word1, String word2) {

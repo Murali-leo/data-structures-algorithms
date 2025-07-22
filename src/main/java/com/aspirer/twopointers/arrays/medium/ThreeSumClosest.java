@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/3sum-closest/
  */
 
-package src.main.java.com.aspirer.twopointers.arrays.medium;
+package com.aspirer.twopointers.arrays.medium;
 
 import java.util.Arrays;
 

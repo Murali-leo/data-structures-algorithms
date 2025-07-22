@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/lexicographically-smallest-palindrome/
  */
 
-package src.main.java.com.aspirer.twopointers.strings.easy;
+package com.aspirer.twopointers.strings.easy;
 
 public class Lexicographically {
     public String makeSmallestPalindrome(String s) {

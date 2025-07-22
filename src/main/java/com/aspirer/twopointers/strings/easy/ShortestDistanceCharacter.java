@@ -2,7 +2,7 @@
  * LeetCode Problem: ShortestDistanceCharacter
  * Problem Link: https://leetcode.com/problems/shortest-distance-to-a-character/
  */
-package src.main.java.com.aspirer.twopointers.strings.easy;
+package com.aspirer.twopointers.strings.easy;
 
 public class ShortestDistanceCharacter {
 

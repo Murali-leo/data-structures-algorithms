@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/partition-array-according-to-given-pivot/
  */
 
-package src.main.java.com.aspirer.twopointers.arrays.medium;
+package com.aspirer.twopointers.arrays.medium;
 
 public class PartitionArrayByPivot {
 

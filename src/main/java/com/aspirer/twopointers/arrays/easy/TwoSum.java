@@ -1,4 +1,4 @@
-package src.main.java.com.aspirer.twopointers.arrays.easy;
+package com.aspirer.twopointers.arrays.easy;
 /**
  * LeetCode Problem: TwoSum
  * Problem Link: https://leetcode.com/problems/two-sum/

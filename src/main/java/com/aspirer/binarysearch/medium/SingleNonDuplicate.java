@@ -4,7 +4,7 @@
 */
 
 
-package src.main.java.com.aspirer.binarysearch.medium;
+package com.aspirer.binarysearch.medium;
 
 public class SingleNonDuplicate {
     public int singleNonDuplicate(int[] nums) { 

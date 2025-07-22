@@ -1,4 +1,4 @@
-package src.main.java.com.aspirer.stack.parantheses.easy;
+package com.aspirer.stack.parantheses.easy;
 
 /**
  * LeetCode Problem: ValidParantheses

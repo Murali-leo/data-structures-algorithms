@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/reverse-string/
  */
 
-package src.main.java.com.aspirer.twopointers.strings.easy;
+package com.aspirer.twopointers.strings.easy;
 
 public class ReverseString {
     public void reverseString(char[] s) {

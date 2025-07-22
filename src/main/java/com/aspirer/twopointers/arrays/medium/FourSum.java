@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/4sum/
  */
 
-package src.main.java.com.aspirer.twopointers.arrays.medium;
+package com.aspirer.twopointers.arrays.medium;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/rotate-array/
  */
 
-package src.main.java.com.aspirer.twopointers.arrays.medium;
+package com.aspirer.twopointers.arrays.medium;
 
 public class RotateArray {
     public void rotate(int[] nums, int k) {

@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/largest-merge-of-two-strings/
 */
 
-package src.main.java.com.aspirer.twopointers.strings.medium;
+package com.aspirer.twopointers.strings.medium;
 
 public class LargestMerge {
     

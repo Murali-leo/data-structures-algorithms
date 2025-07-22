@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 */
 
-package src.main.java.com.aspirer.binarysearch.medium;
+package com.aspirer.binarysearch.medium;
 
 public class FindMinimum {
     public int findMin(int[] nums) {

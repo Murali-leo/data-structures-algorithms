@@ -1,4 +1,4 @@
-package src.main.java.com.aspirer.stack.parantheses.easy;
+package com.aspirer.stack.parantheses.easy;
 /**
  * LeetCode Problem: MaximumDepthParaentheses
  * Problem Link: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/

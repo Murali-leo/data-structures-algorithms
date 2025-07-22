@@ -3,7 +3,7 @@
  * Problem Link: https://leetcode.com/problems/score-of-parentheses/
 */
 
-package src.main.java.com.aspirer.stack.parantheses.medium;
+package com.aspirer.stack.parantheses.medium;
 
 import java.util.Stack;
 
