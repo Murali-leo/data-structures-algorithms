@@ -1,0 +1,22 @@
+/**
+ * LeetCode Problem: JumpGame2
+ * Problem Link: https://leetcode.com/problems/jump-game-ii/
+ */
+
+package com.aspirer.greedy;
+
+public class JumpGame2 {
+    public int jump(int[] nums) {
+        int jumps = 0;
+        int farthest = 0;
+        int currentEnd = 0;
+        for(int i = 0; i < nums.length-1; i++) {
+            farthest = Math.max(farthest, i + nuns[i]);
+            if(i == currentEnd) {
+                jumps++;
+                currentEnd = farthest;
+            }
+        }
+        return jumps;
+    }
+}
