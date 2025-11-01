@@ -32,4 +32,21 @@ public class SubArraySumEqualsK {
         }
         return subArrayCount;
     }
+
+    public int subarraySumOptimal(int[] nums, int k) {
+        int len = nums.length;
+        int currentSum = 0;
+        int subArrayCount = 0;
+        Map<Integer, Integer> frequency = new HashMap<>();
+        frequency.put(0, 1); // To handle the case when currentSum equals k
+        for (int j = 0; j < len; j++) {
+            currentSum += nums[j];
+            int value = currentSum - k;
+            if (frequency.containsKey(value)) {
+                subArrayCount += frequency.get(value);
+            }
+            frequency.put(currentSum, frequency.getOrDefault(currentSum, 0) + 1);
+        }
+        return subArrayCount;
+    }
 }
